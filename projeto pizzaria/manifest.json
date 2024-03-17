@@ -1,0 +1,18 @@
+{
+    "background_color": "#ffc505",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "Melk's Pizza",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "Melk's Pizza",
+    "start_url": "/",
+    "theme_color": "#ffc505",
+    "id": "Melk's Pizza",
+    "description": "Compre sua pizza sem precisar sair de casa. Através do nossso site/app, você poderá montar e pedir as melhores pizzas da região, produzidas com muito amor e carinho.",
+    "lang": "pt",
+    "categories": [
+      "food",
+      "shopping"
+    ]
+  }
